@@ -1,2 +1,2 @@
 rootProject.name = "Simple Compose Flow Row"
-include ':app'
+include ':app', ':library'

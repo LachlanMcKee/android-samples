@@ -1,4 +1,4 @@
-package com.icesmith.simplecomposeflowrow
+package com.icesmith.simplecomposeflowrow.sample
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -14,6 +14,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import com.icesmith.simplecomposeflowrow.SimpleFlowRow
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

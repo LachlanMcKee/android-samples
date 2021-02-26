@@ -1,0 +1,4 @@
+jdk:
+  - openjdk11
+install:
+  - cd SimpleComposeFlowRow && ./gradlew :library:publishToMavenLocal -xtest
